@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeOtomasyonu.WinForms", "CafeOtomasyonu.WinForms\CafeOtomasyonu.WinForms.csproj", "{9FA59F7B-3A77-4F9C-A506-BE1474A8BF72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeOtomasyonu.Entities", "ClassLibrary1\CafeOtomasyonu.Entities.csproj", "{60E29D5A-EBED-4FB0-8AA2-3C170683B0FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CafeSetup", "..\..\..\Desktop\Otomasyon\CafeSetup\CafeSetup.vdproj", "{91DAA012-9F9B-4FFF-9D9E-A3E68AF7C38A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FA59F7B-3A77-4F9C-A506-BE1474A8BF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA59F7B-3A77-4F9C-A506-BE1474A8BF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA59F7B-3A77-4F9C-A506-BE1474A8BF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA59F7B-3A77-4F9C-A506-BE1474A8BF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E29D5A-EBED-4FB0-8AA2-3C170683B0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E29D5A-EBED-4FB0-8AA2-3C170683B0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E29D5A-EBED-4FB0-8AA2-3C170683B0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E29D5A-EBED-4FB0-8AA2-3C170683B0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DAA012-9F9B-4FFF-9D9E-A3E68AF7C38A}.Debug|Any CPU.ActiveCfg = Debug
+		{91DAA012-9F9B-4FFF-9D9E-A3E68AF7C38A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8986805A-2B16-4DB4-A1F1-CFA43ADCDB9B}
+	EndGlobalSection
+EndGlobal
